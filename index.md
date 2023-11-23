@@ -1,10 +1,10 @@
-## ZzY的个人资源小站
+# ZzY的个人资源小站
 
 You can use the [editor on GitHub](https://github.com/zzyhaxtd.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-# 学习资源收录见下方，点击后方 Link 字样即可获取。
+## 学习资源收录见下方，点击后方 Link 字样即可获取。
 
-```markdown
+
 康复医学导论部分知识点.docx[link](https://endertd.lanzoue.com/ibDfY1fppzob) 2023/11/23
 
 
@@ -17,7 +17,6 @@ You can use the [editor on GitHub](https://github.com/zzyhaxtd.github.io/edit/gh
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
