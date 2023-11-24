@@ -3,6 +3,10 @@
 声明：收录的所有资源来自于网络，朋友的分享以及网站所有者，您若有更好的资源，或者有意见和建议，请通过VX（yyds-zzy-25565，请说明来意）或者QQ（3357215185，请说明来意）与我取得联系。由于Github给予的网站托管空间有限（512MB），所有资源均主要采用蓝奏云进行存储。若某些资源的链接失效，也请通过上述联系方式向我告知。感谢您的访问！
 
 ## 学习资源收录见下方，点击后方 Link 字样即可获取。
+2023/11/24  解剖学-肌群及关节运动关系汇总.pdf  [link](https://endertd.lanzoue.com/irr931fss2lg)
+
+2023/11/24  [知乎] 康复医学概论知识点  [link](https://zhuanlan.zhihu.com/p/52618855)
+
 2023/11/23  康复医学导论部分知识点.docx  [link](https://endertd.lanzoue.com/ibDfY1fppzob)
 
 2023/11/23  系统解剖学笔记.pdf  [link](https://endertd.lanzoue.com/iX0Nc1fpq08b)
