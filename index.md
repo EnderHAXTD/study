@@ -3,6 +3,8 @@
 声明：收录的所有资源来自于网络，朋友的分享以及网站所有者，您若有更好的资源，或者有意见和建议，请通过VX（yyds-zzy-25565，请说明来意）或者QQ（3357215185，请说明来意）与我取得联系。由于Github给予的网站托管空间有限（512MB），所有资源均主要采用蓝奏云进行存储。若某些资源的链接失效，也请通过上述联系方式向我告知。感谢您的访问！
 
 ## 学习资源收录见下方，点击后方 Link 字样即可获取。
+2023/12/14  2023版思想道德与法治期末手写稿.zip  [Link](https://endertd.lanzouu.com/i64TD1huc6yb)
+
 2023/12/12  2022秋季系统解剖题库.zip  [Link](https://endertd.lanzouu.com/iwA5f1hnwsuh)
 
 2023/12/12  体表结构.doc  [Link](https://endertd.lanzouu.com/iXA861hnwsvi)
